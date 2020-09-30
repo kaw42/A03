@@ -11,19 +11,19 @@ How to use Git and Github:
 9.)finally, commit your changes and push to remote repository
 10.)after all of this, you should have the files on github
 
-Glossary:
-Branch|---|
-Clone
-Commit
-Fetch
-GIT
-Github
-Merge
-Merge Conflict
-Push
-Pull
-Remote
-Repository
+*Glossary:
+*Branch:
+*Clone:
+*Commit:
+*Fetch:
+*GIT:
+*Github:
+*Merge:
+*Merge Conflict:
+*Push:
+*Pull:
+*Remote:
+*Repository:
 
 
 References:
